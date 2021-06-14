@@ -1,4 +1,4 @@
-package com.pandey.shubham.movies
+package com.pandey.shubham.photos
 
 import org.junit.Test
 

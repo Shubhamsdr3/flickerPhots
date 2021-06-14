@@ -1,4 +1,4 @@
-package com.pandey.shubham.movies
+package com.pandey.shubham.photos
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
